@@ -1,0 +1,2 @@
+# dirsize
+Calculates  directory size
